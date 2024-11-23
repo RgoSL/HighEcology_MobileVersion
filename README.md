@@ -1,10 +1,5 @@
 # HighEcology_MobileVersion
 
-<div align="center" >
-  <img height= 100px; src="img/logo-tres.svg"/>
-</div>
-<hr>
-
 ## High-Ecology 🎓🌱
 O High Ecology é um projeto de Desenvolvimento de uma Aplicação Web com foco em ser uma plataforma de cursos voltada aos assuntos da Ecologia. Realizada de forma conjunta com a Multinacional IBM, para ampliar os conhecimentos técnicos por meio de mentorias e apresentações. O Projeto envolve os conhecimentos adquiridos entre os anos de 2023 e 2024, respectivamente 1º e 2° Ano do curso DS-AMS (Desenvolvimento de Sistemas - Articulado Médio Superior).
 
