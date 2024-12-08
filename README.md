@@ -20,7 +20,7 @@ O projeto tem como objetivo oferecer uma plataforma de cursos com foco em temas 
       <td align="center">
         <img src="https://github.com/RgoSL/HighEcology_MobileVersion/blob/main/Telas/Catalogo.jpeg" alt="Tela de Catalogo" width="300"/><br>
         <sub>
-          <b>Catalogor</b>
+          <b>Catalogo</b>
         </sub>
       </td>
       <td align="center">
