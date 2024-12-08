@@ -1,19 +1,46 @@
 # HighEcology_MobileVersion
 
-## High-Ecology 🎓🌱
-O High Ecology é um projeto de Desenvolvimento de uma Aplicação Web com foco em ser uma plataforma de cursos voltada aos assuntos da Ecologia. Realizada de forma conjunta com a Multinacional IBM, para ampliar os conhecimentos técnicos por meio de mentorias e apresentações. O Projeto envolve os conhecimentos adquiridos entre os anos de 2023 e 2024, respectivamente 1º e 2° Ano do curso DS-AMS (Desenvolvimento de Sistemas - Articulado Médio Superior).
+## High-Ecology 🎓🌱  
+O **High Ecology** é um projeto de desenvolvimento de uma aplicação web com foco em ser uma plataforma de cursos voltada para temas relacionados à ecologia. Realizado em parceria com a multinacional IBM, o projeto busca ampliar conhecimentos técnicos por meio de mentorias e apresentações. Ele abrange habilidades adquiridas durante os anos de 2023 e 2024, correspondendo ao 1º e 2º anos do curso **DS-AMS** (Desenvolvimento de Sistemas - Articulado Médio Superior).  
 
-## Objetivo 🎯
-O projeto consiste em ser uma plataforma de cursos que possui como diferencial o seu foco em temas que abordam assuntos ligados a Ecologia, meio ambiente, sustentabilidade, biologia e entre outros. O Projeto visa demostrar da melhor forma possível como essa ideia pode ser trabalhada em uma aplicação de uso real. Tentamos assim conscientizar um planeta mais sustentável para o futuro.
+## Objetivo 🎯  
+O projeto tem como objetivo oferecer uma plataforma de cursos com foco em temas ligados à ecologia, meio ambiente, sustentabilidade, biologia, entre outros. A proposta busca demonstrar como essa ideia pode ser trabalhada em uma aplicação de uso real, conscientizando as pessoas sobre a importância de um planeta mais sustentável para o futuro.  
 
-## Tecnologias Utilizadas 👨‍💻🤖
-- HTML  _(Marcação e Estrutura)_ 
-- CSS  _(Estilização e Modelagem)_
-- Javascript  _(Funcionalidades e Validações)_
-- PHP  _(Linguagem de Banco de Dados)_
-- BootStrap  _(Frameworks Visuais)_ 
-- V-Libras  _(Acessibilidade do Site)_ 
-- Kotlin _(Linguagem Utilizada no Desenvolvimento da Versão Mobile)_
-- SQLITE _(Utilizada Para Desenvolver o Banco de Dados do Aplicativo)_
+## Telas do Nosso Aplicativo 📱  
 
-## Agradecemos Pela Atenção! <3 🤙💕
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/GND.jpeg" alt="GND do Microcontrolador" width="300"/><br>
+        <sub>
+          <b>Login</b>
+        </sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Shield.jpeg" alt="Microcontrolador" width="300"/><br>
+        <sub>
+          <b>Catalogor</b>
+        </sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Motores.jpeg" alt="Motores" width="300"/><br>
+        <sub>
+          <b>Editar</b>
+        </sub>
+      </td>
+    </tr>
+  </table>
+</div>  
+
+## Tecnologias Utilizadas 👨‍💻🤖  
+- **HTML** _(Marcação e Estrutura)_  
+- **CSS** _(Estilização e Modelagem)_  
+- **JavaScript** _(Funcionalidades e Validações)_  
+- **PHP** _(Linguagem de Banco de Dados)_  
+- **Bootstrap** _(Frameworks Visuais)_  
+- **V-Libras** _(Acessibilidade do Site)_  
+- **Kotlin** _(Linguagem utilizada no desenvolvimento da versão mobile)_  
+- **SQLite** _(Banco de dados do aplicativo)_  
+
+## Agradecemos pela atenção! <3 🤙💕
