@@ -12,19 +12,19 @@ O projeto tem como objetivo oferecer uma plataforma de cursos com foco em temas 
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/GND.jpeg" alt="GND do Microcontrolador" width="300"/><br>
+     <img src="https://github.com/RgoSL/HighEcology_MobileVersion/blob/main/Telas/Login.jpeg" alt="Tela de Login" width="300"/><br>
         <sub>
           <b>Login</b>
         </sub>
       </td>
       <td align="center">
-        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Shield.jpeg" alt="Microcontrolador" width="300"/><br>
+        <img src="https://github.com/RgoSL/HighEcology_MobileVersion/blob/main/Telas/Catalogo.jpeg" alt="Tela de Catalogo" width="300"/><br>
         <sub>
           <b>Catalogor</b>
         </sub>
       </td>
       <td align="center">
-        <img src="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados/blob/main/Fotos/Motores.jpeg" alt="Motores" width="300"/><br>
+       <img src="https://github.com/RgoSL/HighEcology_MobileVersion/blob/main/Telas/Editar.jpeg" alt="Tela de Edição" width="300"/><br>
         <sub>
           <b>Editar</b>
         </sub>
